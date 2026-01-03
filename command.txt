@@ -1,6 +1,13 @@
+# 1. one time each project to start git 
 git init
+
+# 2. every time to add 
 git add .
+
+# every time you commit 
 git commit -m "first commit"
+
+
 git branch -M portfolio-site
 git remote add origin https://github.com/anidrobot/My-First-Wev-Repo.git
 git push -u origin portfolio-site
